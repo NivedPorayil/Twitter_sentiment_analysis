@@ -77,7 +77,7 @@ The dataset showed a predominance of neutral sentiments, suggesting that many tw
 
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 Expand Dataset: Incorporate more tweets or other social media data to improve model generalization.
 
 Advanced Preprocessing: Apply lemmatization, spell correction, or deep learning embeddings like Word2Vec or BERT for richer text representations.
@@ -90,12 +90,12 @@ Real-time Analysis: Integrate the model with Twitter’s API to analyze live dat
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are highly encouraged! Feel free to fork the repository, experiment with new models, refine preprocessing steps, or improve the evaluation metrics. Any feedback or pull requests are welcome.
 
 ---
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it for educational and research purposes.
 
 ---
@@ -104,5 +104,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 **NIVED P**  
 *Aspiring Data Scientist | Machine Learning Enthusiast*
+
 
 ---
